@@ -446,8 +446,8 @@ export default function DateRangePicker() {
                                 🗓️ Get Started
                             </div>
                             <p className="text-muted-foreground">
-                                Select a "From" date to see infinite date
-                                options.
+                                Select a &quot;From&quot; date to see infinite
+                                date options.
                                 {!dateRange.from &&
                                     ' The "To" date is optional - if not selected, single day options will be shown.'}
                             </p>
